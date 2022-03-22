@@ -1,5 +1,5 @@
-[EN](https://github.com/YBHPG/YBHPG/edit/master/README.md#english) | [RU](https://github.com/YBHPG/YBHPG/edit/master/README.md#russian)
-# English
+[EN](#English) | [RU](#Russian)
+# <a id="English"></a>English #
 
 <img src="https://user-images.githubusercontent.com/70971642/159447232-0a10fe6e-a567-4d35-9456-a3fb7bdf3749.PNG" alt="drawing" width="200"/>
 
@@ -35,7 +35,7 @@ Write if you have any questions or just want to say hello 👋🏻
 
 
 
-# Russian
+# <a id="Russian"></a>Russian #
 
 <img src="https://user-images.githubusercontent.com/70971642/159447232-0a10fe6e-a567-4d35-9456-a3fb7bdf3749.PNG" alt="drawing" width="200"/>
 
