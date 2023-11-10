@@ -5,7 +5,7 @@
 
 Hi, I'm YBHPG! And in the real world, my name is Vladislav.<br />
 In short, I am a student of Bauman Moscow State Technical University, interested in 📸 photography (both real and virtual), design 🎨 and programming 👨🏼‍💻. If you need more information, then read on. If you need to contact me:<br />
-     • [Telegram](https://t.me/ybhpg)<br />
+     • [Telegram](https://t.me/bulbadyshka)<br />
      • [E-mail](mailto:birch-lychees.0@icloud.com)<br />
      • Discord: bulbadyshka<br />
 
@@ -28,9 +28,9 @@ Photography is exclusively a hobby. In the absence of a platform for publishing 
 
 
 Once again I duplicate the links for communication: <br />
-     • [Telegram](https://t.me/ybhpg)<br />
+     • [Telegram](https://t.me/bulbadyshka)<br />
      • [E-mail](mailto:birch-lychees.0@icloud.com)<br />
-     • Discord: Бульбадыш#8953<br />
+     • Discord: bulbadyshka<br />
 Write if you have any questions or just want to say hello 👋🏻
 
 
@@ -41,7 +41,7 @@ Write if you have any questions or just want to say hello 👋🏻
 
 Привет, я YBHPG! А в реальном мире меня зовут Владислав. <br />
 Если коротко, то я студент МГТУ им. Н. Э. Баумана, интересуюсь фотографией (как реальной, так и виртуальной), дизайном и программированием. Если нужно побольше информации, то читайте дальше. Если нужна связь со мной: <br />
-     • [Telegram](https://t.me/ybhpg)<br />
+     • [Telegram](https://t.me/bulbadyshka)<br />
      • [E-mail](mailto:birch-lychees.0@icloud.com)<br />
      • Discord: bulbadyshka<br />
 
@@ -63,9 +63,9 @@ Write if you have any questions or just want to say hello 👋🏻
 
 
 Ещё раз дублирую ссылки для связи: <br />
-     • [Telegram](https://t.me/ybhpg)<br />
+     • [Telegram](https://t.me/bulbadyshka)<br />
      • [E-mail](mailto:birch-lychees.0@icloud.com)<br />
-     • Discord: Бульбадыш#8953<br />
+     • Discord: bulbadyshka<br />
 Пишите, если есть какие-либо вопросы или хочется просто передать привет 👋🏻 
 
 <!---
