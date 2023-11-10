@@ -7,7 +7,7 @@ Hi, I'm YBHPG! And in the real world, my name is Vladislav.<br />
 In short, I am a student of Bauman Moscow State Technical University, interested in 📸 photography (both real and virtual), design 🎨 and programming 👨🏼‍💻. If you need more information, then read on. If you need to contact me:<br />
      • [Telegram](https://t.me/ybhpg)<br />
      • [E-mail](mailto:birch-lychees.0@icloud.com)<br />
-     • Discord: Бульбадыш#8953<br />
+     • Discord: bulbadyshka<br />
 
 ### Programming 👨🏼‍💻
 In programming, I undertake a lot and have not yet fully mastered anything 😅 From the experience of what I have tried: <br />
@@ -43,7 +43,7 @@ Write if you have any questions or just want to say hello 👋🏻
 Если коротко, то я студент МГТУ им. Н. Э. Баумана, интересуюсь фотографией (как реальной, так и виртуальной), дизайном и программированием. Если нужно побольше информации, то читайте дальше. Если нужна связь со мной: <br />
      • [Telegram](https://t.me/ybhpg)<br />
      • [E-mail](mailto:birch-lychees.0@icloud.com)<br />
-     • Discord: Бульбадыш#8953<br />
+     • Discord: bulbadyshka<br />
 
 ### Программирование
 В программировании берусь за многое и пока не освоил полностью ничего 😅 Из опыта того, что пробовал: <br />
